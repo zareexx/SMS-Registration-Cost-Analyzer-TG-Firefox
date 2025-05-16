@@ -1,4 +1,4 @@
-```markdown
+```
 # Currency Converter and Cost Calculator
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
